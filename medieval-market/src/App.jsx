@@ -114,7 +114,7 @@ export default function App() {
         <div className="mt-4 mb-2 flex justify-center relative z-10">
           <a
             id="github-source-btn"
-            href="https://github.com/carlosNahuelSanchez/Medieval-Market-minigame"
+            href="https://github.com/carlosNahuelSanchez/minigames/tree/main/medieval-market"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-medieval inline-flex items-center gap-2 py-2 px-5 rounded-xl
